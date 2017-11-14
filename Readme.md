@@ -1,0 +1,1 @@
+This repository builds kibana image with ELO (Cohort) plugin
